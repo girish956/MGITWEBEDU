@@ -1,0 +1,109 @@
+@import "https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700";
+
+body {
+    font-family: 'Poppins', sans-serif;
+}
+.courseitem{
+width: 25%;
+display: inline-block;
+}
+.image1 img{
+    margin-left: 400px;
+    margin-top: 80px;
+}
+.image1-text{
+display: inline-block;	
+margin-left: 80px;
+position: absolute;
+margin-top: 200px;
+line-height: 1.5;
+}
+.image1{
+	display: inline-block;
+}
+.div1{
+	margin-bottom: 100px;
+}
+
+.image2{
+	display: inline-block;
+}
+.image2-text{
+display: inline-block;	
+margin-left: 0px;
+margin-right: 0px;
+line-height: 1.5;
+}
+
+.image3 img{
+    margin-left: 450px;
+    margin-top: 80px;
+
+
+}
+.image3-text{
+display: inline-block;	
+margin-left: 80px;
+position: absolute;
+margin-top: 300px;
+line-height: 1.5;
+}
+.image3{
+	display: inline-block;
+}
+.div3{
+	margin-bottom: 100px;}
+
+
+.image4 img{
+    
+	display: inline-block;
+}
+.image4{
+	display: inline-block;
+}
+.image4-text{
+display: inline-block;	
+margin-left: 10px;
+margin-right: 0px;
+line-height: 1.5;
+}	
+
+nav{
+height: 70px;
+
+}		
+a{
+text-decoration: none;	
+}
+.nav-item a{
+color: black;
+text-align: center;
+}
+
+.nav-item a:hover{
+
+background-color: #846bfb;
+color: black;	
+border-radius: 40px;
+
+}
+.homenav{
+	margin-left: 850px;
+	margin-top: 10px;
+}
+.homediv{
+padding-top: 30px;
+padding-left: 50px;
+font-size: 18px;	
+}
+.profile:hover {
+  
+background-color: #846bfb;
+
+border-radius: 40px;
+
+}
+.profile{
+  border-style: none;background-color: #fff;color:black;margin-top: 3px;
+}
